@@ -1,0 +1,2 @@
+class LibraryCategory < ApplicationRecord
+end
